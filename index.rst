@@ -8,7 +8,7 @@ Visit ij start canon to download the Canon Printer Drivers & Software then insta
 ij.start.canon allows you to download, install and configure Canon ij Setup on your PC, Mac and Smartphone as well. Canon ij Setup is software for setting up Canon printers wirelessly. You can find the Canon printer model number on the top or front to enter at ij.start.canon. site. Check out the complete guidelines here to learn how to download and set up a Canon printer from the Canon site.
 
 |
-.. image:: stars.jpg
+.. image:: get-started-button.png
     :width: 200px
     :align: center
     :height: 100px
