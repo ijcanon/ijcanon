@@ -9,7 +9,7 @@ ij.start.canon allows you to download, install and configure Canon ij Setup on y
 
 |
 .. image:: get-started-button.png
-    :width: 200px
+    :width: 300px
     :align: center
     :height: 100px
     :alt: ij.start.canon
